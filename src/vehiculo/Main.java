@@ -4,7 +4,8 @@ package vehiculo;
 /**
  *
  * @author Samuel Vergara Martín
- * 
+ * @version 1.0
+ * @since 26-04-2024
  */
 public class Main {
     
