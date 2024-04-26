@@ -3,7 +3,8 @@ package vehiculo;
 
 /**
  *
- * @author 
+ * @author Samuel Vergara Martín
+ * 
  */
 public class Main {
     
